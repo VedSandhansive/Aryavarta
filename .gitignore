@@ -1,4 +1,33 @@
-# Ignore in Git (but keep on your computer)
+# Python
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Audio cache
+audio/cache/
+audio/temp/
+
+# Database
+*.db
+database/*.db
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+temp/
