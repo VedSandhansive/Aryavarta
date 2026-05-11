@@ -1,0 +1,4 @@
+# Ignore in Git (but keep on your computer)
+__pycache__/
+*.pyc
+*.pyo
