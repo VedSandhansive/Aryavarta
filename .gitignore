@@ -6,7 +6,7 @@ __pycache__/
 venv/
 env/
 .env
-.tests/commands.py
+tests/commands.py
 # IDE
 .vscode/
 .settings.json
