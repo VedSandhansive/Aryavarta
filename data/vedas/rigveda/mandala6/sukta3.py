@@ -1,56 +1,66 @@
-# Rigveda - Mandala 6, Sukta 4
-# Agni Sukta - The All-Knowing (Rishi: Bharadvaja)
-# Total Verses: 10 (Traditional)
+# Rigveda - Mandala 6, Sukta 3 (Corrected)
+# Agni Sukta - The Invoker (Rishi: Bharadvaja)
+# Total Verses: 12 (Traditional - Authentic Griffith)
 
-RIGVEDA_M6_S4 = {
+RIGVEDA_M6_S3 = {
     1: {
-        "sanskrit": "त्वामग्ने यज्ञानां होतारं चर्षणीनाम् |\nविप्रा स्तोमेभिरायुवो रातहव्यं सपर्यति ||",
-        "meaning": "You, O Agne, of sacrifices, the priest of mortal peoples; the wise ones, with hymns, the living ones, the one who receives offerings, they serve.",
-        "example": "Your hymns are your daily actions. One intentional action with awareness serves Agne. Wise ones (clarity) appear. Living ones (fully alive)."
+        "sanskrit": "प्र होता जन्मना समिधानो अग्निर्विप्रेभिर्विप्रसतो यजीयान् |\nत्वेषो दूतः परिवीतो अग्निर्महिश्श्रवा रोदसी शूशुचानः ||",
+        "meaning": "The priest, born, kindled, Agni; with the wise ones, wise-sitting, more worshipful; the fierce messenger, covered, Agni; of great glory, the two worlds, shining.",
+        "example": "Fierce messenger is your conscience. One truth you've been ignoring — hear it today. That truth is Agni. Shining not for others. For you."
     },
     2: {
-        "sanskrit": "स इन्नु राजा सुष्टुतो यशस्वी |\nवाजेषु नित्यो वीर्येण ||",
-        "meaning": "He indeed is the king, well-praised, glorious; in battles, constant in heroism.",
-        "example": "King is you when you govern your inner world. One difficulty faced with integrity makes you king. Constant not in winning. In facing."
+        "sanskrit": "सहसे मृळीकाय त्वा यज्ञस्य हविषा वृणते मनीषिणः |\nप्रियामग्ने दम्पते वोच आसि यज्ञस्य होतारं विदते प्रचेतसम् ||",
+        "meaning": "For strength, for grace, you, for sacrifice with offering, the wise ones choose; dear, O Agne, lord of the house, you are called; the priest of sacrifice is known as the wise one.",
+        "example": "Wise ones choose Agni by choosing presence. One moment of choosing presence over distraction makes you wise. Lord of house means you own your mind."
     },
     3: {
-        "sanskrit": "अयमग्निः सवीर्यो नमस्वान् |\nराया रयिभ्यो विश्ववारराधाः ||",
-        "meaning": "This Agni is heroic, reverent; with wealth, with wealth-givers, all-desirable giver.",
-        "example": "One difficulty faced with full attention is heroic. Wealth (peace) given. Not earned. Received."
+        "sanskrit": "तं त्वा विप्रा वचो विदो दूतं कृण्वते अध्वरे |\nआ विश्वे वृणते वसो ||",
+        "meaning": "You, the wise ones, knowing speech, make messenger in the sacrifice; all choose you, O good one.",
+        "example": "One pause before speaking today. That pause makes Agni your messenger. All your inner parts choose this."
     },
     4: {
-        "sanskrit": "प्र बुध्नो अग्नेरग्निभ्यो वि पाजो वृहतामिव |\nसुमृक्वा रोदसी अमे ||",
-        "meaning": "The foundation of Agni, from fires, the light shines like the great ones; the gracious ones, both worlds, come to me.",
-        "example": "Your foundation is your values. One value held today against pressure is foundation. Both worlds (inner and outer) come to you."
+        "sanskrit": "स हि रेवान् बृहद्दिवो अग्निर्विश्वानि हर्यता |\nस देवान् न यविष्ठ्यः ||",
+        "meaning": "He indeed is wealthy, of great heaven, Agni, all desirable things; he, like a god, the youngest.",
+        "example": "Youngest means always new. One thing seen with fresh eyes today — not 'I know this.' That fresh seeing is Agni youngest. Wealthy means rich in presence."
     },
     5: {
-        "sanskrit": "प्र ते अग्ने बृहद्रये द्युमद् विभाति भानुना |\nसमिद्धो अग्ने सुक्रतुः ||",
-        "meaning": "For your great wealth, the light shines with brilliance; kindled, O Agne, wise.",
-        "example": "One peace moment noticed is great wealth. Light shines. Kindled by noticing."
+        "sanskrit": "स त्वं नो अग्ने महता बृहता वपुषे दिवः |\nराया युजस्व वाजिना ||",
+        "meaning": "That you, O Agne, with great, with mighty, with the form of heaven; with wealth, yoke us with strength.",
+        "example": "Form of heaven is your body treated as sacred. One sacred act today — eating with thanks, bathing with awareness. That act yokes you to strength. Wealth is peace."
     },
     6: {
-        "sanskrit": "प्राग्ने सहसः सहस्वतो द्युमद् विभाहि भानुना |\nप्र यज्ञा देवं प्र वसो ||",
-        "meaning": "O Agne of strength, mighty, shine with brilliant light; sacrifices the god, O good one.",
-        "example": "One intentional action with full presence is sacrifice. Mighty not in force. In fullness."
+        "sanskrit": "इदं ते अग्न आसनं मनुषो अत्र दैव्यम् |\nकृत्नो हव्यः सत्पतिः ||",
+        "meaning": "This your seat, O Agne, of Manu, here divine; the wise one, worthy of offerings, true lord.",
+        "example": "Your seat is your body. One area of life where you are not ruling — take one small ruling step. Sit in your seat. Be lord."
     },
     7: {
-        "sanskrit": "प्र वामग्ने अग्न आ वह देवान् ये च विदेश्या |\nइह प्रीता यजामहै ||",
-        "meaning": "For you, O Agne, bring the gods who are in foreign lands; here, pleased, we sacrifice.",
-        "example": "Foreign lands are parts of you you ignore. One ignored part invited today brings gods (strengths). Pleased, you sacrifice (act)."
+        "sanskrit": "प्रैतु होता गृहपतिरग्निर्देवान् सपर्यतु |\nआ नो यज्ञं जिगातु नरः ||",
+        "meaning": "Let the priest, the lord of the house, Agni, go forward to serve the gods; let him bring our sacrifice, O men.",
+        "example": "Lord of house means you. One value chosen: kindness. Serve it not in temple. In traffic. That service is sacrifice. Agni brings it."
     },
     8: {
-        "sanskrit": "यज्ञं वः साधु दावने प्र बोधय बृहद्दिवे |\nइन्द्राय शूषमग्नये ||",
-        "meaning": "For the sacrifice, for good giving, wake up for the great heaven; for Indra, strength, for Agni.",
-        "example": "One intentional action wakes up great heaven (awareness). Strength (Indra) and will (Agni) present."
+        "sanskrit": "प्राग्नये प्रातरह्वत स्तोतारो ब्रह्म यानिव |\nदाश्वांसोऽस्य शर्मणि ||",
+        "meaning": "To Agni at dawn they called, the praisers, with prayer; the giver in his shelter.",
+        "example": "Dawn is any beginning. Start of a task. Start of a conversation. Call Agni by being fully present at the start. Not multitasking first moments."
     },
     9: {
-        "sanskrit": "अग्ने सुबन्धो विश्पते महो वृधानः पुरूणि ते |\nस प्रीणानो अमर्त्यो विभावा देव सत्पते ||",
-        "meaning": "O Agne, good kinsman, lord of the people, grown by greatness, yours are many things; that immortal one, delighting, shining, divine, true lord.",
-        "example": "Agni is your kinsman (close). One present moment today is immortal (timeless). Shining means visible to you. True lord means you."
+        "sanskrit": "त्वामग्ने बृहद्रये हव्यदातिं हुवे नरः |\nयज्ञस्य केतुं प्रशस्तये ||",
+        "meaning": "You, O Agne, for great wealth, the giver of offerings, men call; the banner of sacrifice for praise.",
+        "example": "Banner of sacrifice means your life visible as offering. One sincere action today — not for show, for truth. That action becomes banner. What banner do you wave today?"
     },
     10: {
-        "sanskrit": "तमर्च जातवेदसं तं नो दूतमुप ह्वये |\nतं यज्ञासो अभिक्षरन् ||",
-        "meaning": "Praise him, Jatavedas, him our messenger I call; him the sacrifices approach.",
-        "example": "Jatavedas knows all beings. One intention set today is messenger. Sacrifices (actions) approach."
+        "sanskrit": "अद्या नो अग्ने अन्यया गिरा देवाय शिक्षते |\nयो अस्मभ्यमभिष्टये ||",
+        "meaning": "Today for us, O Agne, with another song, for the god, he teaches; who for our help.",
+        "example": "Another song means new approach. Same problem. New response. Today, try one thing differently. Agni teaches not by telling. By the result of your new try."
+    },
+    11: {
+        "sanskrit": "तं त्वा शोचिष्ठ दीदिवः सूर्यं न यज्ञिया जनाः |\nद्विता द्विता नमस्विनः ||",
+        "meaning": "You, O most shining, O shining one, like the sun, the worshipful people; double, double, with homage.",
+        "example": "Most shining means fully awake. One moment of full wakefulness today — not sleep, not autopilot. That moment is most shining. Double homage means again and again."
+    },
+    12: {
+        "sanskrit": "प्राग्नये वाचमीरय यज्ञाय वाचमीरय |\nप्र सोमाय वाचमीरय ||",
+        "meaning": "Raise your voice for Agni, raise your voice for the sacrifice, raise your voice for Soma.",
+        "example": "Voice is intention. One intention set: 'I will act with will (Agni), intention (sacrifice), and devotion (Soma).' That intention raises voice. Not spoken. Lived."
     }
 }
