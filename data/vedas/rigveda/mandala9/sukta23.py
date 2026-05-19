@@ -1,0 +1,56 @@
+# Rigveda - Mandala 9, Sukta 23
+# Soma Pavamana Sukta - The Invincible Stream
+# Total Verses: 10 (Traditional - Griffith)
+
+RIGVEDA_M9_S23 = {
+    1: {
+        "sanskrit": "प्र सोमासो विपश्चितः पवमानास इन्दवः |\nअभि विश्वानि काव्या ||",
+        "meaning": "The Soma drops, the wise ones, the purifying ones, the drops, flow forth; they surpass all wisdom.",
+        "example": "Invincible stream is your intuition when trusted. One intuitive trust today. That trust surpasses all obstacles. Not fighting. Flowing."
+    },
+    2: {
+        "sanskrit": "प्र सोमासो विपश्चितः पवमानास इन्दवः |\nप्र वाचा वोचे विपश्चिते ||",
+        "meaning": "The Soma drops, the wise ones, the purifying ones, the drops, flow forth; with speech I speak to the wise one.",
+        "example": "Wise one is your intuition. One word from intuition today. That word is invincible stream. Not loud. Unstoppable."
+    },
+    3: {
+        "sanskrit": "प्र सोमासो विपश्चितः पवमानास इन्दवः |\nप्र काव्यानि वोचत ||",
+        "meaning": "The Soma drops, the wise ones, the purifying ones, the drops, flow forth; speak the poems.",
+        "example": "Poems are unstoppable expressions. One unstoppable expression today. That expression is invincible stream. Not blocked. Flowing."
+    },
+    4: {
+        "sanskrit": "प्र सोमासो विपश्चितः पवमानास इन्दवः |\nप्र गायत्रेण गायत ||",
+        "meaning": "The Soma drops, the wise ones, the purifying ones, the drops, flow forth; sing with the Gayatri.",
+        "example": "Gayatri is breath's flow. One flowing breath today. That breath is invincible stream. Not stopped. Flowing."
+    },
+    5: {
+        "sanskrit": "प्र सोमासो विपश्चितः पवमानास इन्दवः |\nप्र ब्रह्मणा प्र गायत ||",
+        "meaning": "The Soma drops, the wise ones, the purifying ones, the drops, flow forth; with prayer sing forth.",
+        "example": "Prayer is flowing intention. One flowing intention set today. That intention is invincible stream. Not blocked by doubt. Flowing."
+    },
+    6: {
+        "sanskrit": "प्र सोमासो विपश्चितः पवमानास इन्दवः |\nप्र राये राय इन्दवः ||",
+        "meaning": "The Soma drops, the wise ones, the purifying ones, the drops, flow forth; for wealth, the drops for wealth.",
+        "example": "Wealth is flowing peace. One flowing peace received today. That peace is invincible stream. Not dammed. Flowing."
+    },
+    7: {
+        "sanskrit": "प्र सोमासो विपश्चितः पवमानास इन्दवः |\nप्र द्युभिरिन्दुभिः सुताः ||",
+        "meaning": "The Soma drops, the wise ones, the purifying ones, the drops, flow forth; pressed with days, with drops.",
+        "example": "Each day presses flow. One flowing moment from difficulty today. That moment is invincible stream. Pressed not stopped. Flowing."
+    },
+    8: {
+        "sanskrit": "प्र सोमासो विपश्चितः पवमानास इन्दवः |\nप्र सुताः सोमाः सोमपाः ||",
+        "meaning": "The Soma drops, the wise ones, the purifying ones, the drops, flow forth; the pressed Somas, the Soma-drinkers.",
+        "example": "Soma-drinkers receive flowing peace. One flowing peace received without deserving. That peace is invincible stream. Not earned. Flowing."
+    },
+    9: {
+        "sanskrit": "प्र सोमासो विपश्चितः पवमानास इन्दवः |\nप्र देवेषु पवन्ते सोमाः ||",
+        "meaning": "The Soma drops, the wise ones, the purifying ones, the drops, flow forth; the Somas purify among the gods.",
+        "example": "Gods are your flowing parts. One flowing action aligned with highest self today. That action is Soma purifying. Invincible stream cleanses by flowing."
+    },
+    10: {
+        "sanskrit": "प्र सोमासो विपश्चितः पवमानास इन्दवः |\nप्र विश्वा वार्या विदुः ||",
+        "meaning": "The Soma drops, the wise ones, the purifying ones, the drops, flow forth; they know all desirable things.",
+        "example": "Flowing intuition knows what you truly need. One true need recognized in flow today. That recognition is invincible stream. Not forced. Flowing knowing."
+    }
+}
