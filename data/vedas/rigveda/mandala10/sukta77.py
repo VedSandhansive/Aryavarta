@@ -1,0 +1,41 @@
+# Rigveda - Mandala 10, Sukta 77
+# Agni Sukta - The Priest (Rishi: Trita Aptya)
+# Total Verses: 7 (Authentic - Griffith)
+
+RIGVEDA_M10_S77 = {
+    1: {
+        "sanskrit": "प्राग्ने ब्रह्माणि गायते प्र वोच उपायते |\nप्र वार्याणि दाशुषे ||",
+        "meaning": "O Agne, the prayers sing; they speak for the approaching one; the desirable things to the giver.",
+        "example": "Priest is not a title. It is presence. One intention set today is your prayer. The priest needs presence, not words."
+    },
+    2: {
+        "sanskrit": "अग्ने युङ्ग्धि रथोत्तमेभिरश्वैरिन्द्रक्रतो नियुता याहि सोमम् |\nविद्वान् पथा देवयानान् अग्ने वह हव्यानि सुमनस्यमानः ||",
+        "meaning": "O Agne, yoke with best chariot-horses, O Indra-powered one, with teams, go to the Soma; knowing the god-going paths, O Agne, carry offerings, being of good mind.",
+        "example": "Best horses are love+wisdom. The priest's offering is kind attention. One kind, aware action today is your offering."
+    },
+    3: {
+        "sanskrit": "त्वामग्ने मित्रो वरुणो अग्ने देवासो अवसा गातुवित्तमम् |\nत्वां त्वामग्ने अङ्गिरसो न उक्थैरग्ने विप्रं जातवेदो महित्वना ||",
+        "meaning": "You, O Agne, Mitra, Varuna, Agne, the gods with help, the best path-finder; you, O Agne, the Angirases with hymns, O Agne, the wise one, O Jatavedas, by greatness.",
+        "example": "The priest serves not a distant god. The priest serves the self through self-friendship (Mitra) and order (Varuna). One act of self-friendship today."
+    },
+    4: {
+        "sanskrit": "त्वां विप्रासो विप्रयस्तुवन्ति त्वां शर्धाय शर्धतो न शर्धतो |\nत्वां मित्रासो अर्यमाणं ददाशुस्त्वां सोमासो अतसन्नि अर्कैः ||",
+        "meaning": "You the wise ones praise; you for the strong one, not for the non-strong; you Mitras, to Aryaman, have given; you Somas have attained with rays.",
+        "example": "The priest does not wait for clarity. The priest acts, and clarity follows. One action from clarity today."
+    },
+    5: {
+        "sanskrit": "त्वं नृभिर्दाशुषे शूर नृम्णं त्वं राये दाशुषे शूर त्वम् |\nत्वं सोमस्य दाशुषे शूर गातुं त्वं राये दाशुषे शूर त्वम् ||",
+        "meaning": "You to men, to the giver, O hero, manliness; you for wealth, to the giver, O hero, you; you of Soma, to the giver, O hero, the path; you for wealth, to the giver, O hero, you.",
+        "example": "The priest is not separate from the hero. One courageous act today is both priesthood and heroism."
+    },
+    6: {
+        "sanskrit": "प्र वो रथं हरियोजनं वसो राये वयो दधे |\nविश्वानरं यमायत ||",
+        "meaning": "Your chariot with bay yoking, O good one, for wealth, I place the bird; the all-man for the journey.",
+        "example": "Chariot with bay yoking means love+wisdom. Bird is your breath. The priest's journey is this breath, not a destination."
+    },
+    7: {
+        "sanskrit": "त्वमग्ने दीद्यत् प्र यज्ञेभिः श्रवस्यते |\nपावको अम्भसा विश्वे ||",
+        "meaning": "You, O Agne, shining, with sacrifices, for glory; purifying with water, all.",
+        "example": "Shining means present. The priest's glory is not recognition. It is presence. One present moment today is your glory. This completes Sukta 77."
+    }
+}
