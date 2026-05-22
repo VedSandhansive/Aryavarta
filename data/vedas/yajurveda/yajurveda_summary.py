@@ -1,5 +1,5 @@
 # data/vedas/yajurveda/yajurveda_complete_summary.py
-# Complete Yajurveda - Both Krishna and Shukla Recensions - Expanded Summary
+# Complete Yajurveda - Both Krishna and Shukla Recensions
 # This file contains a comprehensive overview of the entire Yajurveda
 
 YAJURVEDA_COMPLETE_SUMMARY = {
