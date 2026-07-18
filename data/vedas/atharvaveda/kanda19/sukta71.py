@@ -1,0 +1,36 @@
+# Atharvaveda - Shaunaka Samhita
+# Kanda 19, Sukta 71 - To Various Deities - Final Protection (Fragmentary)
+# Total Verses: 6 (Authentic - as available)
+
+ATHARVAVEDA_K19_S71 = {
+    1: {
+        "sanskrit": "अग्निर्मा गोपायतु प्राणायापानाय बलायौजसे वीर्याय सुभूत्यै स्वाहा ।",
+        "meaning": "May Agni protect me for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!",
+        "example": "One willed breath. Agni's fire purifies. The fire of will is the protector of the breath. Not automatic. Willed."
+    },
+    2: {
+        "sanskrit": "इन्द्रो मा गोपायतु प्राणायापानाय बलायौजसे वीर्याय सुभूत्यै स्वाहा ।",
+        "meaning": "May Indra protect me for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!",
+        "example": "One courageous breath. Indra's courage is the protector. The courage to breathe fully. Not shallow. Deep."
+    },
+    3: {
+        "sanskrit": "सोमो मा गोपायतु प्राणायापानाय बलायौजसे वीर्याय सुभूत्यै स्वाहा ।",
+        "meaning": "May Soma protect me for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!",
+        "example": "One clear breath. Soma's clarity protects. Clarity of breath brings clarity of mind. Not confused. Clear."
+    },
+    4: {
+        "sanskrit": "सविता मा गोपायतु प्राणायापानाय बलायौजसे वीर्याय सुभूत्यै स्वाहा ।",
+        "meaning": "May Savitar protect me for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!",
+        "example": "One awakened breath. Savitar's awakening protects. Awakening to each breath. Not asleep. Awake."
+    },
+    5: {
+        "sanskrit": "बृहस्पतिर्मा गोपायतु प्राणायापानाय बलायौजसे वीर्याय सुभूत्यै स्वाहा ।",
+        "meaning": "May Brhaspati protect me for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!",
+        "example": "One wise breath. Brhaspati's wisdom protects. Wisdom in each breath. Not automatic. Wise."
+    },
+    6: {
+        "sanskrit": "विश्वे देवा मा गोपायन्तु प्राणायापानाय बलायौजसे वीर्याय सुभूत्यै स्वाहा ।",
+        "meaning": "May all the gods protect me for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!",
+        "example": "One breath containing all powers. All gods protect. That breath is complete. This completes Sukta 71."
+    }
+}

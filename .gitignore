@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+config.env
+tests/commands.py
+# IDE
+.vscode/
+.settings.json
+.idea/
+*.swp
+
+# Audio cache
+audio/cache/
+audio/temp/
+
+# Database
+*.db
+database/*.db
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+temp/
+emotion_detection/models/emotion_classification_model.keras

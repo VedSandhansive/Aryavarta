@@ -1,0 +1,36 @@
+# Rigveda - Mandala 10, Sukta 143
+# Agni Sukta (Rishi: Trita Aptya)
+# Total Verses: 6 (Authentic - Griffith)
+
+RIGVEDA_M10_S143 = {
+    1: {
+        "sanskrit": "प्राग्ने ब्रह्माणि गायते प्र वोच उपायते |\nप्र वार्याणि दाशुषे ||",
+        "meaning": "O Agne, the prayers sing; they speak for the approaching one; the desirable things to the giver.",
+        "example": "The approaching one is your future self. One action today that your future self will thank you for. That action speaks the prayer."
+    },
+    2: {
+        "sanskrit": "अग्ने युङ्ग्धि रथोत्तमेभिरश्वैरिन्द्रक्रतो नियुता याहि सोमम् |\nविद्वान् पथा देवयानान् अग्ने वह हव्यानि सुमनस्यमानः ||",
+        "meaning": "O Agne, yoke with best chariot-horses, O Indra-powered one, with teams, go to the Soma; knowing the god-going paths, O Agne, carry offerings, being of good mind.",
+        "example": "One offering of attention today. Not money. Attention to someone who needs it. That attention is your offering. It carries on the god-going path."
+    },
+    3: {
+        "sanskrit": "त्वामग्ने मित्रो वरुणो अग्ने देवासो अवसा गातुवित्तमम् |\nत्वां त्वामग्ने अङ्गिरसो न उक्थैरग्ने विप्रं जातवेदो महित्वना ||",
+        "meaning": "You, O Agne, Mitra, Varuna, Agne, the gods with help, the best path-finder; you, O Agne, the Angirases with hymns, O Agne, the wise one, O Jatavedas, by greatness.",
+        "example": "One order you restore today. Clean a space. Complete a task. Restore a relationship. That restoring is Varuna. That restoring finds the path."
+    },
+    4: {
+        "sanskrit": "त्वां विप्रासो विप्रयस्तुवन्ति त्वां शर्धाय शर्धतो न शर्धतो |\nत्वां मित्रासो अर्यमाणं ददाशुस्त्वां सोमासो अतसन्नि अर्कैः ||",
+        "meaning": "You the wise ones praise; you for the strong one, not for the non-strong; you Mitras, to Aryaman, have given; you Somas have attained with rays.",
+        "example": "Do not wait for motivation. Act. One action taken without motivation today. That action is strength. The non-strong wait. You act."
+    },
+    5: {
+        "sanskrit": "त्वं नृभिर्दाशुषे शूर नृम्णं त्वं राये दाशुषे शूर त्वम् |\nत्वं सोमस्य दाशुषे शूर गातुं त्वं राये दाशुषे शूर त्वम् ||",
+        "meaning": "You to men, to the giver, O hero, manliness; you for wealth, to the giver, O hero, you; you of Soma, to the giver, O hero, the path; you for wealth, to the giver, O hero, you.",
+        "example": "One generous act to yourself today. Rest. Eat well. Forgive. That generosity gives wealth to your spirit. Not money. Peace."
+    },
+    6: {
+        "sanskrit": "प्र वो रथं हरियोजनं वसो राये वयो दधे |\nविश्वानरं यमायत ||",
+        "meaning": "Your chariot with bay yoking, O good one, for wealth, I place the bird; the all-man for the journey.",
+        "example": "Your body is chariot. Your breath is bird. Your whole self is the all-man. One breath today with awareness of all three. That breath is the journey. This completes Sukta 143."
+    }
+}
