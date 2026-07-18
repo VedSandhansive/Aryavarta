@@ -33,4 +33,3 @@ Thumbs.db
 # Temporary files
 *.tmp
 temp/
-emotion_detection/models/emotion_classification_model.keras
